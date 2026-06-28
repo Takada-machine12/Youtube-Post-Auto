@@ -1,0 +1,16 @@
+/* 全体に反映 */
+body {
+	padding-top: 60px;
+	padding-bottom: 40px;
+	padding-left: 20px;
+}
+
+/* login.phpに反映 */
+#main .sidebar-nav .form-group {
+	padding: 0 10px;
+}
+
+/* login.phpに反映 */
+#main .jumbotron h1 {
+	font-size:53px;
+}
